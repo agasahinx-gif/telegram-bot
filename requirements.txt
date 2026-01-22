@@ -1,0 +1,2 @@
+# PostgreSQL (Psycopg2 - legacy sürüm)
+psycopg2-binary==2.9.9
